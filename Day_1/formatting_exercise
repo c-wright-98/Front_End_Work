@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html lang = "en">
+    <head>
+        <title>
+            <u>This is the formatting text task</u>
+        </title>
+    </head>
+    <body>
+    <p><b>This is Bold</b></p>
+    <p><i>This is italic</i></p>
+    <p><del>Scratch This</del></p>
+
+    </body>
+</html>
