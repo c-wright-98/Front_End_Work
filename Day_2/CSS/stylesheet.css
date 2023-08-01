@@ -1,0 +1,16 @@
+body{
+    background-color: bisque;
+}
+
+image{
+    margin-left: 20;
+}
+
+p{
+    margin-left: 2em;
+}
+
+#headings{
+    text-transform: uppercase;
+
+}
