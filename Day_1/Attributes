@@ -1,5 +1,8 @@
 <!DOCTYPE html>
-<html>
+<html lang="en">
+    <head>
+        <title>Attributes</title>
+    </head>
     <body>
         <p title="This is an attribute"> QA is the leading training provider. </p>
         <a href="https://www.qa.com/"> QA Website </a>
