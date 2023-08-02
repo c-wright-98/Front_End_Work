@@ -4,8 +4,7 @@ This is a collection of work for front-end development that we completed in week
 
 [Click me to see pop cat](https://c-wright-98.github.io/Front_End_Work/)
 
-### Day 1 - 2
-HTML
+### HTML
 - Headings & Paragraphs
 - Text Formatting
 - Attributes
@@ -16,11 +15,15 @@ HTML
 - Tables
 - IFrames
   
-### Day 2 - 3
-CSS
+### CSS
+- Transform
+- Stylesheets
+- Selectors
+- Pseudo Selectors
+- Alignment
+- Positions and displays
 
+### Javascript
 
-### Day 3 - 5
-Javascript
 
  
