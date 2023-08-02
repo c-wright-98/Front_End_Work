@@ -9,3 +9,37 @@ li {
 strong{
     display: block;
 }
+
+img{
+    width: 45%;
+    height: auto;
+    opacity: 65%;
+}
+
+.contain{
+    position: relative;
+}
+
+.bottomright{
+    position: absolute;
+    font-size: 15px;
+    color: purple;
+    bottom: 10px;
+    left: 200px;
+}
+
+.topleft{
+    position: absolute;
+    font-size: 15px;
+    color: black;
+    top: 10px;
+    left: 200px;
+}
+
+.toprightdown{
+    position: absolute;
+    font-size: 15px;
+    color: blueviolet;
+    top: 5px;
+    left: 10px
+}
