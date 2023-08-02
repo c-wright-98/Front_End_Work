@@ -1,0 +1,26 @@
+em {
+    color: aqua;
+}
+/* combinator */
+p em {
+    color: red;
+}
+/* direct child */
+article > footer {
+    color: yellowgreen;
+}
+/* adjacent */
+h1 + p {
+    color: blueviolet;
+}
+
+/* All siblings */
+h1 ~ p {
+    background-color: grey;
+}
+
+/* Bonus */
+
+p.hover:hover{
+    background-color: gold;
+}
