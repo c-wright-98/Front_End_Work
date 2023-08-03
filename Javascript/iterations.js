@@ -26,7 +26,7 @@ for (let i = 0; i < 10; i++){
 }
 
 for(let A2 = 100; A2 <= 200; A2++){
-    console.log(`A = ${A}`);
+    console.log(`A = ${A2}`);
 }
 
 for(let a2 = 100; a2 <= 200; a2++){
