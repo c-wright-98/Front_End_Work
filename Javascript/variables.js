@@ -4,11 +4,12 @@ let c = 12344;
 let d = true;
 let e = {a:"JavaScript"};
 
-typeof(a);
-typeof(b);
-typeof(c);
-typeof(d);
-typeof(e);
+//type these into the console
+//typeof(a);
+//typeof(b);
+//typeof(c);
+//typeof(d);
+//typeof(e);
 
 let totalMoney = 4000;
 let moneyPaidSoFar = 2348;
