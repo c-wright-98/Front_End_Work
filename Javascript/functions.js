@@ -10,6 +10,6 @@ function welcome(name,age,gender) {
 
 console.log(welcome("Corvus Wright", 24, "Male"));
 
-powerUp = (n1,n2) => Math.pow(n1,n2);
+let powerUp = (n1,n2) => Math.pow(n1,n2);
 
 console.log(powerUp(10,10));
